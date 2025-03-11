@@ -5,6 +5,7 @@ This code is used to automatically fill the Academic feedback form in vierp (VIT
 Prerequisites -
 if using .py file, please install selenium
 https://www.selenium.dev/documentation/webdriver/getting_started/install_library/
+
 For .exe file, installation is not required.
 But please wait atleast few second after clicking on .exe file so it can load.
 
