@@ -3,6 +3,7 @@
 This code is used to automatically fill the Academic feedback form in vierp (VIT,VIIT,VU) using a automation python script working on selenium.
 
 Prerequisites -
+Chrome is required
 if using .py file, please install selenium
 https://www.selenium.dev/documentation/webdriver/getting_started/install_library/
 
