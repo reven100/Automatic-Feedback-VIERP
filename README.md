@@ -7,6 +7,8 @@ Chrome is required
 if using .py file, please install selenium by -->  pip install selenium
 https://www.selenium.dev/documentation/webdriver/getting_started/install_library/
 
+## NOTE - IF YOU GET STUCK IN ANY PROFESSOR/SUBJECT PAGE, THEN PLEASE FILL THAT ONE PAGE MANUALLY AND RUN THE CODE AGAIN.
+
 For .exe file, installation is not required.
 But please wait atleast few second after clicking on .exe file so it can load.
 
