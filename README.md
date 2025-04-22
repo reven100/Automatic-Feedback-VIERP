@@ -9,7 +9,7 @@
 # Automatic-Feedback-VIERP
 
 A Python + Selenium-based automation tool to **auto-fill academic feedback forms** on **VIERP (VIT / VIIT / VU)** platforms.
-
+- Completely Open-source (.py file shared in the repo)
 ---
 
 ## 🚀 Features
